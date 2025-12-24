@@ -1,5 +1,5 @@
-# {{MODPACK_NAME}}
-{{MODPACK_DESCRIPTION}}
+# Basic Forge Test
+A collection of mods that enhance gameplay and add new features.
 
 ## Installation Instructions
 
