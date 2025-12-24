@@ -1,7 +1,7 @@
-name = "{{MODPACK_NAME}}"
-version = "{{MODPACK_VERSION}}"
+name = "Basic Forge Test"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [versions]
-{{MODLOADER}} = "{{MODLOADER_VERSION}}"
-minecraft = "{{MINECRAFT_VERSION}}"
+minecraft = "1.20.1"
+forge = "0.17.3"
