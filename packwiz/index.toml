@@ -1,2 +1,21 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "f40be2562ed1251fcc1b3978b5b990993ab2a95a29e9d6c77d0b2e8ca7a7aa07"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "07e84dc489d26f5c0173dc0f7c58cc2cb1d10485f8898a9c7d6c04abfb6a7a63"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "dc4d4cb39f9e81e26c3dfbc753684c3405165f112f11f3392dda82c349be0e2f"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "b0998f1d3c27207d73b2e17189fd410f4073e054167433b6268d1f79e752e014"
+metafile = true

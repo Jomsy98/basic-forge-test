@@ -2,6 +2,11 @@ name = "Basic Forge Test"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6dd29b54252337a934e8c28fbec64bfba354fcdfdd3f9183079aaf5aa98f772e"
+
 [versions]
-minecraft = "1.20.1"
 forge = "0.17.3"
+minecraft = "1.20.1"
