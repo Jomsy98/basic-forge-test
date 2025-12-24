@@ -1,15 +1,49 @@
 {
-	"modpack": {
-		"name": "My Awesome Modpack",
-		"description": "A collection of mods that enhance gameplay and add new features.",
-		"version": "1.0.0",
-		"minecraft": {
-			"version": "1.21.10"
-		},
-		"modLoader": {
-			"type": "fabric",
-			"version": "0.17.3"
-		}
-	},
-	"mods": []
+  "modpack": {
+    "name": "Basic Forge Test",
+    "description": "A collection of mods that enhance gameplay and add new features.",
+    "version": "1.0.0",
+    "minecraft": {
+      "version": "1.20.1"
+    },
+    "modLoader": {
+      "type": "forge",
+      "version": "0.17.3"
+    }
+  },
+  "mods": [
+    {
+      "id": "vvuO3ImH",
+      "name": "Curios API",
+      "source": "modrinth",
+      "description": "A flexible and expandable accessory/equipment API for users and developers.",
+      "iconUrl": "https://cdn.modrinth.com/data/vvuO3ImH/2a7323ca80849de0bcb50299e18acdf8bf394682.png",
+      "author": "TheIllusiveC4"
+    },
+    {
+      "id": "u6dRKJwZ",
+      "name": "Just Enough Items (JEI)",
+      "source": "modrinth",
+      "description": "View Items and Recipes",
+      "iconUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/4a3f18ac0d096c9f8e9176984c44be4e58f94c89_96.webp",
+      "author": "mezz"
+    },
+    {
+      "id": "XxWD5pD3",
+      "name": "Applied Energistics 2",
+      "source": "modrinth",
+      "description": "AE2: A popular automation and storage mod",
+      "iconUrl": "https://cdn.modrinth.com/data/XxWD5pD3/60b001515abbf6ebf32bc2729b0ddd95d2793feb_96.webp",
+      "author": "shartte"
+    },
+    {
+      "id": "Ck4E7v7R",
+      "name": "GuideME",
+      "source": "modrinth",
+      "slug": "guideme",
+      "description": "A guidebook toolkit for mods and modpack makers alike with comfortable markdown formatting, and live 3d scenes!",
+      "iconUrl": "https://cdn.modrinth.com/data/Ck4E7v7R/04e8cbe7daff69feb20bf114074475001d9c7be5.png",
+      "author": "shartte"
+    }
+  ]
 }
